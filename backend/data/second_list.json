@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Hikari",
+    "attribute": "kindness",
+    "motto": "A gentle light brightens the heart",
+    "icon": "/images/kokoro_cover.png"
+  },
+  {
+    "id": 2,
+    "name": "Soseki Natsume",
+    "attribute": "historical",
+    "motto": "The universe is full of oddities",
+    "icon": "/images/kokoro_cover.png"
+  }
+]
