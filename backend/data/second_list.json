@@ -1,0 +1,14 @@
+[
+  {
+    "id": "alice",
+    "name": "Alice",
+    "attribute": "support",
+    "icon": "/images/alice.png"
+  },
+  {
+    "id": "bob",
+    "name": "Bob",
+    "attribute": "battle",
+    "icon": "/images/bob.png"
+  }
+]
